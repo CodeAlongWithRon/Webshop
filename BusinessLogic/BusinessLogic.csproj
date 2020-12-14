@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5</TargetFramework>
+    <AssemblyName>Webshop.BusinessLogic</AssemblyName>
+    <RootNamespace>Webshop.BusinessLogic</RootNamespace>
+  </PropertyGroup>
+
+</Project>
